@@ -1,8 +1,12 @@
 !# Car Manufacturer Dataset Analysis for Fuel Efficiency
 Dataset: https://1drv.ms/x/c/4c8b73122c739cd5/ETY6wuy5_2RInPHgTCqZc-8BAIqGMiNdWOS61499Bqz8Wg?e=wZEJaB A car manufacturer known for making large automobiles is struggling with sales and has asked for your help in designing an energy efficient car. Using data gathered, determine which attributes may contribute to higher gas mileage so that they can design a more fuel efficient automobile.
+
 ##Part 1: Use proper data cleansing techniques to ensure that you have the highest quality data to model this problem. Detail your process and discuss the decisions you made to clean the data.
+
 ##Part 2: Build a linear regression model to accurately predict miles per gallon (MPG) based on the attributes of a vehicle. Discuss the significant attributes and how they can help you build the proper car.
+
 ##Part 3: Optimize the model using selection techniques, explain whether the model can achieve the specified goals, and describe which attributes contribute to higher MPG over others.
+
 Project Overview
 A car manufacturer specializing in large vehicles is facing declining sales due to the lower fuel efficiency of its cars. The goal of this project is to analyze and identify key vehicle attributes that contribute to higher gas mileage (miles per gallon, or MPG). The ultimate objective is to recommend features that will help the company design a more fuel-efficient automobile.
 This analysis is divided into three main parts:
